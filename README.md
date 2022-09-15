@@ -1,4 +1,4 @@
-# RushSFAuto
+# ProductBot
 
 ## Use of software
 The software is an automation bot. It is used to automate the process of purchasing items online with an emphasis in shopify websites.
